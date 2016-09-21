@@ -1,2 +1,2 @@
-# exploring_networks_with_python_intro
-An introduction to exploring network-structured datasets with python's networkx package.
+# Introduction to handling data with Python
+An introduction to handling data with Python using Jupyter Notebook, Numpy and Pandas.
